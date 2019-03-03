@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace';
+}
+#navbar {
+    background-color: rgb(72, 162, 241);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+nav ul {
+    padding-left: 2em;
+    text-align: left;
+    position: fixed;
+    width: 100%;
+    background-color: #e0ebe8;
+}
+
+.intro p {
+    color: white;
+    font-size: 18px;
+}
+.intro{
+    top: 0;
+    background: #386969;
+    min-height: 60vh;
+    padding-top: 40vh;
+}
